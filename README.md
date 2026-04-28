@@ -76,6 +76,7 @@ The query loads to a staging sheet, where I review the cleaned data before pasti
 ## What's Included
 
 - `Depop_Tracking_Workbook.xlsx` — The complete workbook with sample data (real business data has been replaced for privacy)
+- `sample_depop_export.csv` — An example Depop sales export showing the raw CSV format that the Power Query pipeline transforms on import
 
 ## Future Enhancements
 
